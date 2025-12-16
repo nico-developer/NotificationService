@@ -1,0 +1,6 @@
+[
+  {
+    "ruleName" : "RateLimitingRule",
+    "rules": "size() <=4"
+  }
+]
